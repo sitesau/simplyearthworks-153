@@ -1,0 +1,22 @@
+{
+  "wheel_id": 780,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-153",
+  "project": "earthmoving-adelaide-pros-and-cons-e21631a18c26fbadb522eeecba6f",
+  "parent_t1_ref": "simplyearthworks-007",
+  "node_role": "buffer",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving adelaide pros and cons",
+  "intended_url": "https://sites-e470-2.web.app/earthmoving-adelaide-pros-and-cons-e21631a18c26fbadb522eeecba6f/",
+  "tier": "T2",
+  "writeback_nonce": "6419095fd5434b0d",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/earthmoving-adelaide-simplyearthworks-007/",
+      "anchor": "https://cloudsites-hub.pages.dev/sites-01/earthmoving-adelaide-simplyearthworks-007/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
